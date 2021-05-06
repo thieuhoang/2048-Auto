@@ -1,0 +1,12 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/fc108594-a1c4-4e47-a86c-3df513f9655c/resourceGroups/koirala-learn-azure-lab-1/providers/Microsoft.Web/sites/2048-explord",
+    "appService.deploySubpath": ".",
+    "cSpell.words": [
+        "closepullrequest",
+        "webapps"
+    ]
+}
